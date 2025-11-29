@@ -18,7 +18,7 @@ const Page = () => {
         The Hub for Every Dev <br /> You can&apos;t miss
       </h1>
       <p className="mt-5">
-        Hackathons,Meetups and Conferences. All in one place.
+        Hackathons, Meetups and Conferences. All in one place.
       </p>
       <ExploreBtn />
       <div className="mt-20 space-y-7">
